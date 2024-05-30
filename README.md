@@ -7,9 +7,9 @@ Dynamic MERN Full Stack Web Developer with 1200+ hours of coding experience. Pro
 
 <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="img" >
 
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I persued MERN Stack
 
-- 💬 Ask me about HTML,JavaScript,CSS
+- 💬 Ask me about HTML,JavaScript,CSS,React,Express,Node.js,React Native
 
 - 📫 How to reach me rausskr6565@gmail.com
 
