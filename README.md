@@ -11,7 +11,7 @@ Dynamic MERN Full Stack Web Developer with 1200+ hours of coding experience. Pro
 
 - 💬 Ask me about HTML,JavaScript,CSS
 
-- 📫 How to reach me rausskr656581@gmail.com
+- 📫 How to reach me rausskr6565@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
